@@ -1,1 +1,1 @@
-# YUVANA
+app.use(express.static('public'));
